@@ -1,10 +1,10 @@
 # Ejercicios de estructura de control 2
 ## Selectivas y Repetitivas
 
-Nombre:
+Nombre: Franco Jesús Bolaños Gainsborg
 --
 
-Github Username:
+Github Username: FrancoBolanos
 --
 
 Instrucciones:
