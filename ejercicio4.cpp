@@ -37,8 +37,6 @@ int main() {
         default: break;
     } if (cliente=='S' or cliente=='s') {
         precio_dscto=precio*0.8;
-        proceso=precio_dscto*100;
-        precio_dscto=proceso/100;
         cout<<"Monto a pagar: "<<precio_dscto<<"\n";
     } else {
         cout<<"Monto a pagar: "<<precio<<"\n";
